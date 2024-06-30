@@ -1,7 +1,7 @@
 # Projeto-artigo-gerado-por-IA
 Projeto gerado para curso sobre inteligência artificial, no qual utiliza diferentes I.As para criar um artigo técnico 
 
-<a href="https://web.dio.me/articles/desvendando-o-pensamento-computacional-conceitos-e-aplicacoes?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> Clique para ler</a>
+<a href="https://www.dio.me/articles/desvendando-o-pensamento-computacional-conceitos-e-aplicacoes" title="View PDF now"> Clique para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
